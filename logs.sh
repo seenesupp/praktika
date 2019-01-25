@@ -1,8 +1,6 @@
 #!/bin/bash
 #Colors
-NC2='\033[0m'
 NC='\033[0m'
-Red='\033[1;31'
 Green='\033[1;32m'
 
 clear
